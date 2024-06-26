@@ -24,3 +24,10 @@ Package for reactive, dynamic UI components
 composer require livewire/livewire   
 ```
 
+## [Spatie LARAVEL-PERMISSION](https://spatie.be/docs/laravel-permission/v6/introduction)
+
+Package for managing user permissions and roles using database.
+
+```shell
+composer require spatie/laravel-permission  
+```
