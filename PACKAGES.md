@@ -7,3 +7,12 @@ Starterkit package for Laravel with authentication. Powerd by Blade template sta
 ```shell
 composer require laravel/breeze --dev
 ```
+
+## [Laravel Folio](https://laravel.com/docs/11.x/folio)
+
+A page based router designed to simplify routing in Laravel applications. 
+
+```shell
+composer require laravel/folio
+```
+
