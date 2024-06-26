@@ -16,3 +16,11 @@ A page based router designed to simplify routing in Laravel applications.
 composer require laravel/folio
 ```
 
+## [Laravel Livewire](https://laravel-livewire.com/)
+
+Package for reactive, dynamic UI components
+
+```shell
+composer require livewire/livewire   
+```
+
